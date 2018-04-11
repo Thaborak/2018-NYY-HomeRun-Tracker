@@ -57,9 +57,6 @@ const render = (function(){
       <div id="box1"> <a href="#"><img src="${player.player.pic.player.officialImageSrc}" alt="" /></a>
       <h2 class="subtitle">${player.player.FirstName} ${player.player.LastName}</h2>
       <p>${player.stats.Homeruns['#text']}</p>
-      <ul class="contact">
-        <li><a href="#" class="icon icon-facebook"><span></span></a></li>
-      </ul>
     </div>
       `;
     });
