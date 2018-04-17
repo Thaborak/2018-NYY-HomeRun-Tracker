@@ -1,0 +1,34 @@
+{
+  "name": "statstracker",
+  "version": "0.0.1",
+  "description": "tracks end of day mlb stats",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thaborak/2018-NYY-HomeRun-Tracker.git"
+  },
+  "keywords": [
+    "baseball",
+    "stats",
+    "mlb",
+    "yankees"
+  ],
+  "author": "Tom Haborak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thaborak/2018-NYY-HomeRun-Tracker/issues"
+  },
+  "homepage": "https://github.com/Thaborak/2018-NYY-HomeRun-Tracker#readme"
+}
